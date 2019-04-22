@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PetMonitoring</string>
+    <string name="welcome_message_main">Welcome Jamie, choose a pet!</string>
+    <string name="date_textView">Select a date</string>
+    <string name="day_switch_button_text">Day</string>
+    <string name="night_switch_button_text">Night</string>
+    <string name="switch_button_text">When did you walk?</string>
+    <string name="spinner_button_text">How long did you walk?</string>
+    <string name="three_button_text">How was the walk?</string>
+    <string name="saveTextButton">Save</string>
+    <string name="empty_not_saved">Missing information!</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="ThirdActivity_Title">History</string>
+    <string name="SecondActivity_Title">Entry</string>
+    <string name="dog_walking_history">Dog\'s walking diary</string>
+
+    <string-array name="minutes">
+        <item> &#60;20 minutes</item>
+        <item>20-30 minutes</item>
+        <item>30-40 minutes</item>
+        <item>40-50 minutes</item>
+        <item>50+ minutes</item>
+    </string-array>
+</resources>
